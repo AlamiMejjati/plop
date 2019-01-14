@@ -4,7 +4,7 @@ This repository contains the Tensorflow code for our paper Unsupervised Attentio
 
 By leveraging attention, our architecture (shown in the figure bellow) only maps relevant areas of the image, and by doing so, further enhances the quality of image to image translation.
 
-Our model architecture is defined as depicted bellow, please refer to the paper for more details: 
+Our model architecture is defined as depicted below, please refer to the paper for more details: 
 <img src='imgs/AGGANDiagram.jpg' width="900px"/>
 
 ## Mapping results
